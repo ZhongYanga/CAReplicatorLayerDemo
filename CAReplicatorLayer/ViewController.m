@@ -20,6 +20,7 @@
     self.view.backgroundColor = [UIColor greenColor];
     [self musicAnimation];
     [self activityIndicatorAnimation];
+    NSLog(@"git test");
 }
 
 - (void)didReceiveMemoryWarning {
